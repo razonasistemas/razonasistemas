@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2333F0&width=435&lines=Hi%2C+I'm+Luis;Expert+in+blockchain+development)](https://git.io/typing-svg)
 
+![Alt Text](https://luispando.com/assets/images/dev-working_rounded.gif)
+
 <!--
 **razonasistemas/razonasistemas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
